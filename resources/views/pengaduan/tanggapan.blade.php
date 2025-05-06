@@ -36,7 +36,7 @@
                 <td>
                     @php
                         $statusColors = [
-                            'pending' => 'warning',
+                            'pending' => 'danger',
                             'diproses' => 'primary', 
                             'selesai' => 'success'
                         ];
